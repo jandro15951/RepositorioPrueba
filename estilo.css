@@ -1,0 +1,109 @@
+.imagen{
+	width: 150px;
+	height: 100px;
+	display: inline-block;
+}
+.nav{
+	font-family: 'Roboto', sans-serif;
+}
+
+.nav li a{
+	background-color: #5cb3c1;
+	text-decoration: none;
+	padding: 10px 15px;
+	display: block;
+	
+	
+}
+ul li{
+	list-style: none;
+}
+.contenedor{
+	background: red;
+	width:40%;
+	position: relative;
+	z-index: 10;
+	display: inline-block;
+	
+	
+}
+
+.nav >li{
+	float: left;
+}
+*{
+	padding: 0px;
+	margin: 0px;
+}
+.nav li ul{
+	display: none;
+	position: absolute;
+	min-width: 140px;
+}
+.nav li:hover >ul{
+	display: block;
+}
+.nav li a:hover{
+	background: #01587a;
+}
+.whatsapp{
+	width: 80px;
+	height: 80px;
+	background: #00BB2D;
+	transition: all 0.5s;
+	display: flex;
+	text-decoration: none;
+	
+	
+	align-items: center;
+	
+}
+.fab{
+	color: #ffffff;
+	
+	font-size: 50px;
+	
+
+	padding: 10px;
+
+	
+}
+.whatsapp:hover{
+	width: 140px;
+	transition: all 0.5s;
+}
+
+.contacto{
+	display: flex;
+
+	flex-direction: row-reverse;
+	margin-top: 60px;
+	align-content: center;
+}
+.facebook{
+	width: 80px;
+	height: 80px;
+	background:#3B5998;
+	transition: all 0.5s;
+	display: flex;
+	text-decoration: none;
+
+
+	align-items: center;
+	
+}
+.facebook:hover{
+	width: 140px;
+	transition: all 0.5s;
+}
+.contacto{
+	position: relative;
+	display: flex;
+	justify-content: right;
+	flex-direction: column;
+	height: 200px;
+	align-items: flex-end;
+	width: 100%;
+	background: blue;
+	z-index: 5;
+}

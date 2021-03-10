@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<project name="C:\wamp2.2\www\HieloPag\Hielo.clpprj">
+ <settings>
+  <PM_URL><![CDATA[http://localhost/]]></PM_URL>
+  <PM_HOME_URL><![CDATA[http://localhost/]]></PM_HOME_URL>
+  <PM_LIBS><![CDATA[]]></PM_LIBS>
+  <PM_FTP_CONNECTION><![CDATA[]]></PM_FTP_CONNECTION>
+  <PM_FTP_DIR><![CDATA[]]></PM_FTP_DIR>
+  <PM_FTP_UPLOAD_ON_SAVE><![CDATA[INT:0]]></PM_FTP_UPLOAD_ON_SAVE>
+ </settings>
+ <removed value=";"/>
+ <added value=""/>
+ <lastopfiles>
+  <file name="C:\wamp2.2\www\HieloPag\index.html"/>
+  <file name="C:\wamp2.2\www\HieloPag\estilo.css"/>
+  <lastactivefile name="C:\wamp2.2\www\HieloPag\index.html"/>
+ </lastopfiles>
+ <errors version="1.10"/>
+ <cakedata/>
+ <dplmenupath/>
+ <laravael/>
+ <smartyassings/>
+ <twigtemplate/>
+ <yiidata/>
+ <todoblock/>
+ <dbgurls/>
+ <filescache>
+  <file name="C:\wamp2.2\www\HieloPag\index.html" crc="1613581025071"/>
+  <file name="C:\wamp2.2\www\HieloPag\estilo.css" crc="1613581558428"/>
+ </filescache>
+</project>
